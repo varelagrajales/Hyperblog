@@ -3,3 +3,5 @@ Hola
 Mi nombre es Diego Alejandro Varela, tengo 22 años
 
 Soy estudiante de ingeniería de sistemas y este es mi primer archivo
+
+Me gusta el rock
